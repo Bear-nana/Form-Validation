@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+  	padding-top: 50px;
+}
+
+section {
+	margin: 20px 20px 20px 20px;
+  	padding: 40px 15px;
+}
+
+.form-section {
+	background-color: #FAEBD7;
+	height: 92vh;
+	background-size: cover;
+}
